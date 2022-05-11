@@ -6,7 +6,7 @@
 
 ## Angular
 
-[metamorfosis-angular](https://ngchallenges.gitbook.io/metamorfosis-de-angular/)
+[Metamorfosis-angular](https://ngchallenges.gitbook.io/metamorfosis-de-angular/)
 
 [Aprendiendo Angular](https://ngchallenges.gitbook.io/project/)
 
