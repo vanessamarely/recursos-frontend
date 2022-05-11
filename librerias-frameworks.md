@@ -1,8 +1,8 @@
 
-## React
+# React
 
 
-### Español
+## Español
 
 [React pagina oficial](https://es.reactjs.org/docs/getting-started.html)
 
@@ -13,7 +13,7 @@
 [Notas sobre React] (https://jonmircha.com/react) por [Jonathan MirCha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ)
 
 
-#### Videos
+### Videos
 
 [Curso React.js ⚛️ desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) por [midudev](https://www.youtube.com/c/midudev)
 
@@ -22,7 +22,7 @@
 [Curso React.js](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk) por [jonmircha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ)
 
 
-### Ingles
+## Ingles
 
 [React oficial page](https://reactjs.org/)
 
@@ -34,11 +34,11 @@
 
 
 
-## Angular
+# Angular
 
 
 
-### Español
+## Español
 
 [Angular traduccion español](https://docs.angular.lat/)
 
@@ -49,6 +49,11 @@
 [Proyectos prácticos con Angular](https://ngchallenges.gitbook.io/example-angular/) por [vanessamarely](https://github.com/vanessamarely)
 
 
-### Ingles
+### Videos
+
+[Curso Angular en Español](https://youtu.be/i-oYrcNtc2s) por [Dominicode](https://www.youtube.com/c/DominiCode/)
+
+
+## Ingles
 
 [Angular oficial page](https://angular.io/)
