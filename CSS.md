@@ -5,7 +5,7 @@
 
 [MDN - CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
-[Diseño Web Responsivo - freecodecamp](https://www.freecodecamp.org/espanol/learn/responsive-web-design/)
+[Diseño Web Responsivo - freecodecamp](https://www.freecodecamp.org/espanol/learn/responsive-web-design/) por [freecodecamp](https://www.freecodecamp.org)
 
 
 ## Recursos Inglés
@@ -14,7 +14,7 @@
 
 [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+[Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/) by [freecodecamp](https://www.freecodecamp.org)
 
 [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 
@@ -39,4 +39,4 @@
 
 ### Quizzes
 
-[Teffcode's Quizzes](https://teffcode-community.github.io/quizzes/) 
+[Teffcode's Quizzes](https://teffcode-community.github.io/quizzes/) por [Estefany Aguilar](https://linktr.ee/teffcode)
