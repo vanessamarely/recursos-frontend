@@ -16,11 +16,11 @@
 
 [Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/) by [freecodecamp](https://www.freecodecamp.org)
 
-[Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+[Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) by [Shay Howe](https://twitter.com/shayhowe)
 
 [Learn CSS!](https://web.dev/learn/css/)
 
-[The Definitive Guide To Make Your Fear Disappear](https://html.com/css/)
+[The Definitive Guide To Make Your Fear Disappear](https://html.com/css/) by [Jon Penland](https://html.com/author/jon-penland/)
 
 ### Juegos
 
@@ -40,3 +40,8 @@
 ### Quizzes
 
 [Teffcode's Quizzes](https://teffcode-community.github.io/quizzes/) por [Estefany Aguilar](https://linktr.ee/teffcode)
+
+
+### Videos
+
+[Aprende CSS ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=wZniZEbPAzk&ab_channel=HolaMundo) por [HolaMundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
