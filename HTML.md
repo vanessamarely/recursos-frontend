@@ -12,6 +12,10 @@
 
 [Metamorfosis - HTML](https://ngchallenges.gitbook.io/metamorfosis-de-angular/nivel-0-oruga/que-es-html)por [vanessamarely](https://github.com/vanessamarely)
 
+### Videos
+
+[Curso HTML & CSS](https://www.youtube.com/watch?v=-oK6zL01fNM&ab_channel=jonmircha) por [Jonathan MirCha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ)
+
 
 ## Recursos Inglés
 
