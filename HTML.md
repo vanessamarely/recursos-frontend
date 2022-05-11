@@ -4,13 +4,13 @@
 
 [MDN - HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 
-[Diseño Web Responsivo - freecodecamp](https://www.freecodecamp.org/espanol/learn/responsive-web-design/)
+[Diseño Web Responsivo - freecodecamp](https://www.freecodecamp.org/espanol/learn/responsive-web-design/) por [freecodecamp](https://www.freecodecamp.org)
 
-[El mejor Tutorial de HTML y HTML5](https://desarrolladoresweb.org/tutorial-html-html5-completo/)
+[El mejor Tutorial de HTML y HTML5](https://desarrolladoresweb.org/tutorial-html-html5-completo/) por [Desarrolladoresweb.org](https://desarrolladoresweb.org/)
 
-[HTML Introduccion](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/)
+[HTML Introduccion](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) por [Andros Fenollosa](https://programadorwebvalencia.com/#contact)
 
-[Metamorfosis - HTML](https://ngchallenges.gitbook.io/metamorfosis-de-angular/nivel-0-oruga/que-es-html)
+[Metamorfosis - HTML](https://ngchallenges.gitbook.io/metamorfosis-de-angular/nivel-0-oruga/que-es-html)por [vanessamarely](https://github.com/vanessamarely)
 
 
 ## Recursos Inglés
@@ -19,7 +19,7 @@
 
 [MDN - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+[Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/) by [freecodecamp](https://www.freecodecamp.org)
 
 [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 
