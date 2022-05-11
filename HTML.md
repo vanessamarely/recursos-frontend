@@ -6,6 +6,8 @@
 
 [Diseño Web Responsivo - freecodecamp](https://www.freecodecamp.org/espanol/learn/responsive-web-design/)
 
+[El mejor Tutorial de HTML y HTML5](https://desarrolladoresweb.org/tutorial-html-html5-completo/)
+
 
 ## Recursos Inglés
 
