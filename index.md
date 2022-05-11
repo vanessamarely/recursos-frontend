@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Recursos Frontend 😃📚
 
-You can use the [editor on GitHub](https://github.com/vanessamarely/recursos-frontend/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En la actualidad hay muchas personas con un gran interés por aprender sobre tecnologías Web, y gracias a una gran comunidad que está constantemente generando contenido encontramos a nuestra disposición muchos recursos que permiten que nuestro proceso sea más sencillo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En este repositorio pretende recopilar algunos de los recursos que suelo recomendar en mis mentorías, a los interesados en el Frontend, y muchos más que encuentro en la Web, cuyo contenido es muy interesante y de un muy valioso aporte para todos.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Soporte a los recursos 🆘
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vanessamarely/recursos-frontend/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Existen muchos recursos que tal vez no alcance a recopilar en este repositorio, te agradecería mucho si ayudas a contribuir incluyéndolos, para que podamos construir una guía que sea de ayuda para todos.
