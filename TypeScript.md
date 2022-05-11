@@ -7,6 +7,10 @@
 
 [Introducción a TypeScript](https://docs.microsoft.com/es-es/learn/modules/typescript-get-started/)
 
+### Videos
+
+[Curso de TypeScript para principiantes ](https://youtu.be/e45Yhgh4INc) por [Dominicode](https://www.youtube.com/c/DominiCode/)
+
 
 ## Recursos Inglés
 
