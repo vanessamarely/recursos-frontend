@@ -3,7 +3,7 @@
 
 ## Recursos Español
 
-[MDN - JS](https://developer.mozilla.org/es/docs/Learn/JavaScript?target=_blank)
+[MDN - JS](https://developer.mozilla.org/es/docs/Learn/JavaScript)
 
 [Algoritmos de JavaScript y Estructuras de Datos - freecodecamp](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/)
 
