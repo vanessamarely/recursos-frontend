@@ -15,7 +15,7 @@ En este repositorio pretende recopilar algunos de los recursos que suelo recomen
 
 [TypeScript](TypeScript.md)
 
-### Soporte a los recursos 🆘
+# Soporte a los recursos 🆘
 
 Existen muchos recursos que tal vez no alcance a recopilar en este repositorio, te agradecería mucho si ayudas a contribuir incluyéndolos, para que podamos construir una guía que sea de ayuda para todos.
 
