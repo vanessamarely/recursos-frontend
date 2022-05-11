@@ -9,7 +9,7 @@
 
 ### Videos
 
-[Curso de TypeScript para principiantes ](https://youtu.be/e45Yhgh4INc) por [Dominicode](https://www.youtube.com/c/DominiCode/)
+[Curso de TypeScript para principiantes](https://youtu.be/e45Yhgh4INc) por [Dominicode](https://www.youtube.com/c/DominiCode/)
 
 
 ## Recursos Inglés
@@ -18,3 +18,7 @@
 
 [Learn TypeScript – The Ultimate Beginners Guide](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 
+
+### Videos
+
+[TypeScript Course for Beginners](https://youtu.be/BwuLxPH8IDs) por [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
