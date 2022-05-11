@@ -15,6 +15,8 @@
 
 ## Recursos Inglés
 
+[W3 - HTML CSS](https://www.w3.org/standards/webdesign/htmlcss)
+
 [MDN - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
