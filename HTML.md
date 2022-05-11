@@ -14,3 +14,5 @@
 [Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 
 [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+
+[HTML For Beginners The Easy Way](https://html.com/)
