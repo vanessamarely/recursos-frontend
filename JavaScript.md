@@ -19,3 +19,8 @@
 [Learn JavaScript by Coding 7 Games](https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/)
 
 [You Don't Know JS Yet ](https://github.com/getify/You-Dont-Know-JS)
+
+
+### Quizzes
+
+[Teffcode's Quizzes](https://teffcode-community.github.io/quizzes/) 
