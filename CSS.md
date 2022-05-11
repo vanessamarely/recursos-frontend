@@ -7,6 +7,15 @@
 
 [Diseño Web Responsivo - freecodecamp](https://www.freecodecamp.org/espanol/learn/responsive-web-design/) por [freecodecamp](https://www.freecodecamp.org)
 
+### Quizzes
+
+[Teffcode's Quizzes](https://teffcode-community.github.io/quizzes/) por [Estefany Aguilar](https://linktr.ee/teffcode)
+
+
+### Videos
+
+[Aprende CSS ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=wZniZEbPAzk&ab_channel=HolaMundo) por [HolaMundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
+
 
 ## Recursos Inglés
 
@@ -37,11 +46,4 @@
 [Grid Garden](https://cssgridgarden.com)
 
 
-### Quizzes
 
-[Teffcode's Quizzes](https://teffcode-community.github.io/quizzes/) por [Estefany Aguilar](https://linktr.ee/teffcode)
-
-
-### Videos
-
-[Aprende CSS ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=wZniZEbPAzk&ab_channel=HolaMundo) por [HolaMundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
