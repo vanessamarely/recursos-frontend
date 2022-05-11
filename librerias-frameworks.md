@@ -4,7 +4,7 @@
 
 ### Español
 
-[React](https://es.reactjs.org/docs/getting-started.html)
+[React pagina oficial](https://es.reactjs.org/docs/getting-started.html)
 
 [React js tutorial](https://developero.io/blog/react-tutorial)
 
@@ -13,7 +13,7 @@
 
 ### Ingles
 
-[React](https://reactjs.org/)
+[React oficial page](https://reactjs.org/)
 
 [React-tutorial](React-tutorial.app)
 
@@ -26,7 +26,7 @@
 
 ### Español
 
-[Angular](https://docs.angular.lat/)
+[Angular traduccion español](https://docs.angular.lat/)
 
 [Metamorfosis-angular](https://ngchallenges.gitbook.io/metamorfosis-de-angular/)
 
@@ -37,4 +37,4 @@
 
 ### Ingles
 
-[Angular](https://angular.io/)
+[Angular oficial page](https://angular.io/)
