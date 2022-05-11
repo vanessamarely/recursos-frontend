@@ -28,3 +28,7 @@
 [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 
 [HTML For Beginners The Easy Way](https://html.com/)
+
+[Learn HTML CSS](https://learnhtmlcss.online/?utm_source=learnjavascript.online) by [Jad Joubran](https://jadjoubran.io/)
+
+
