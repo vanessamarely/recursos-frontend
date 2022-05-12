@@ -1,7 +1,7 @@
 
 # React
 
-(🔙 Volver )[../librerias-frameworks]
+[🔙 Volver](../librerias-frameworks)
 
 ## Español
 
