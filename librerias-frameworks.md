@@ -15,7 +15,7 @@
 
 ### Videos
 
-[Curso React.js ⚛️ desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) por [midudev](https://www.youtube.com/c/midudev)
+[Curso React.js ⚛️ desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) por [Miguel Ángel Durán - midudev](https://www.youtube.com/c/midudev)
 
 [Aprende React Desde Cero - Curso de React Con Proyectos](https://www.youtube.com/watch?v=6Jfk8ic3KVk&ab_channel=freeCodeCampEspa%C3%B1ol) por [freeCodeCamp Español](https://www.youtube.com/channel/UC1emV4A8liRs9p80CY8ElUQ)
 
