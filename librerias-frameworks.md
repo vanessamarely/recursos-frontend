@@ -12,6 +12,8 @@
 
 [Notas sobre React](https://jonmircha.com/react) por [Jonathan MirCha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ)
 
+[Redux](https://es.redux.js.org/)
+
 
 ### Videos
 
@@ -29,6 +31,8 @@
 [React-tutorial](React-tutorial.app) by [Jad Joubran](https://jadjoubran.io/)
 
 [React JS - React Enlightenment](https://www.reactenlightenment.com/) by Cody Lindley
+
+[The React "post-mortem" guidelines](https://react.polyconseil.fr/) by [polyconseil](https://www.polyconseil.fr/)
 
 
 ### Roadmap
