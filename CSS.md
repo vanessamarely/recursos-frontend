@@ -39,6 +39,8 @@
 
 [CSS-Tricks](https://css-tricks.com/) by [DigitalOcean](https://www.digitalocean.com/)
 
+[CSS Tutorials](https://www.codeanalogies.com/#css) by [Kevin](codeanalogies.com)
+
 
 ### Juegos
 
