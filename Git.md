@@ -18,4 +18,4 @@
 
 [LearnGitBranching](https://learngitbranching.js.org/)
 
-
+[THE BASICS OF GIT EXPLAINED BY DESIGNING A NEW CAR](https://pixelpioneers.co/blog/2017/git-basics-explained-by-designing-a-new-car) by [KEVIN KONONENKO](https://pixelpioneers.co/pioneers/kevin-kononenko)
