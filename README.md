@@ -6,6 +6,10 @@ En la actualidad hay muchas personas con un gran interés por aprender sobre tec
 
 Este repositorio pretende recopilar algunos de los recursos que pueden ser de ayuda a los interesados en aprender el gran mundo de Frontend. Algunos recursos los recomiendo en mis mentorias y otros los he encontrado en la Web (google o redes sociales), y su contenido es muy interesante y de un muy valioso aporte para todos.
 
+## Página GithubPages
+
+[recursos-frontend](https://vanessamarely.github.io/recursos-frontend/)
+
 
 ## Plan de carrera frontend
 
