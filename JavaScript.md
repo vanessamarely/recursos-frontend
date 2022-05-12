@@ -14,6 +14,8 @@
 
 [Introducción a JavaScript](https://lenguajejs.com/javascript/) por [@Manz](https://twitter.com/Manz) 
 
+[clean-code-javascript](https://github.com/andersontr15/clean-code-javascript-es)
+
 
 ### Quizzes
 
@@ -33,6 +35,7 @@
 
 [Retos de JavaScript 🤯](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1QCcTOSq8F_pSQXVcUFmYA) por [Miguel Ángel Durán - midudev](https://www.youtube.com/c/midudev)
 
+
 ## Recursos Inglés
 
 [MDN - JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -50,3 +53,8 @@
 [Learn JavaScript](https://learnjavascript.online/?utm_source=react-tutorial.app) by [Jad Joubran](https://jadjoubran.io/)
 
 [JavaScript Tutorials](https://www.codeanalogies.com/#javascript) by [Kevin](codeanalogies.com)
+
+
+### Exercises
+
+[Explore the JavaScript exercises](https://exercism.org/tracks/javascript/exercises) by [Exercism](https://exercism.org/)
