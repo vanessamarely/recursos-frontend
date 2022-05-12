@@ -1,8 +1,12 @@
-# Otros
+# Otros General
 
 ## Responsive Design
 
 [Learn Responsive Design!](https://web.dev/learn/design/intro/)
+
+## Frontend
+
+[Frontendmentor](https://www.frontendmentor.io/)
 
 ## Web3
 
