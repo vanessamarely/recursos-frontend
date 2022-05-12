@@ -7,6 +7,7 @@
 
 [Algoritmos de JavaScript y Estructuras de Datos - freecodecamp](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/)
 
+[JavaScript.info](https://es.javascript.info/)
 
 ### Quizzes
 
@@ -27,6 +28,8 @@
 [MDN - JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 [JavaScript Algorithms and Data Structures - freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+[JavaScript.info](https://javascript.info/)
 
 [JavaScript](jsv9000.app) by [Andrew Dillon](https://github.com/Hopding/)
 
