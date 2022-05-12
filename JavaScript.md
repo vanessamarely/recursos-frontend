@@ -1,6 +1,7 @@
 
 # JavaScript
 
+
 ## Recursos Español
 
 [MDN - JS](https://developer.mozilla.org/es/docs/Learn/JavaScript)
@@ -9,21 +10,27 @@
 
 [JavaScript.info](https://es.javascript.info/)
 
-[Introducción a JavaScript](https://lenguajejs.com/javascript/)
+[Introducción a JavaScript](https://lenguajejs.com/javascript/) por [@Manz](https://twitter.com/Manz) 
+
 
 ### Quizzes
 
 [Teffcode's Quizzes](https://teffcode-community.github.io/quizzes/) 
 
+
 ### Proyectos practicos
 
 [40 proyectos de JavaScript para principiantes: Ideas fáciles para empezar a codificar en JS](https://www.freecodecamp.org/espanol/news/40-proyectos-de-javascript-para-principiantes-ideas-faciles-para-empezar-a-codificar-en-js/) por [Rafael D. Hernandez](https://www.freecodecamp.org/espanol/news/author/rafael/)
 
+[Retos de JavaScript 🤯](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1QCcTOSq8F_pSQXVcUFmYA) por [Miguel Ángel Durán - midudev](https://www.youtube.com/c/midudev)
 
 ### Videos
 
 [CURSO DE PROGRAMACION con JAVASCRIPT desde cero](https://youtu.be/-rj-zxmdGHA) por [Carlos Azaustre](https://www.youtube.com/c/CarlosAzaustre)
 
+[Experimentos con Javascript](https://www.youtube.com/playlist?list=PLx5xbrpW6nXgaJfiZl5BuF31K3WxaTyFw) por [@Manz](https://twitter.com/Manz) 
+
+[Retos de JavaScript 🤯](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1QCcTOSq8F_pSQXVcUFmYA) por [Miguel Ángel Durán - midudev](https://www.youtube.com/c/midudev)
 
 ## Recursos Inglés
 
