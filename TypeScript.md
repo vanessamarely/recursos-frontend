@@ -1,6 +1,9 @@
 
 # TypeScript
 
+[🔙 Volver Recursos](https://vanessamarely.github.io/recursos-frontend/)
+
+
 ## Recursos Español
 
 [Breve Intro a typescript](https://github.com/vanessamarely/typescript-talk)
