@@ -1,6 +1,7 @@
 
 # JavaScript
 
+
 ## Recursos Español
 
 [MDN - JS](https://developer.mozilla.org/es/docs/Learn/JavaScript)
@@ -9,11 +10,13 @@
 
 [JavaScript.info](https://es.javascript.info/)
 
-[Introducción a JavaScript](https://lenguajejs.com/javascript/)
+[Introducción a JavaScript](https://lenguajejs.com/javascript/) por [@Manz](https://twitter.com/Manz) 
+
 
 ### Quizzes
 
 [Teffcode's Quizzes](https://teffcode-community.github.io/quizzes/) 
+
 
 ### Proyectos practicos
 
@@ -24,6 +27,9 @@
 
 [CURSO DE PROGRAMACION con JAVASCRIPT desde cero](https://youtu.be/-rj-zxmdGHA) por [Carlos Azaustre](https://www.youtube.com/c/CarlosAzaustre)
 
+[Experimentos con Javascript](https://www.youtube.com/playlist?list=PLx5xbrpW6nXgaJfiZl5BuF31K3WxaTyFw) por [@Manz](https://twitter.com/Manz) 
+
+[Retos de JavaScript 🤯](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1QCcTOSq8F_pSQXVcUFmYA) por [Miguel Ángel Durán - midudev](https://www.youtube.com/c/midudev)
 
 ## Recursos Inglés
 
