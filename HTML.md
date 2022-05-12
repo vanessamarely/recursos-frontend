@@ -10,6 +10,8 @@
 
 [HTML Introduccion](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) por [Andros Fenollosa](https://programadorwebvalencia.com/#contact)
 
+[Lenguaje HTML5](https://lenguajehtml.com/html/) por [@Manz](https://twitter.com/Manz) 
+
 [Metamorfosis - HTML](https://ngchallenges.gitbook.io/metamorfosis-de-angular/nivel-0-oruga/que-es-html)por [vanessamarely](https://github.com/vanessamarely)
 
 ### Videos
