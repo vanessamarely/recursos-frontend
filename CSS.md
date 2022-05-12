@@ -31,6 +31,9 @@
 
 [The Definitive Guide To Make Your Fear Disappear](https://html.com/css/) by [Jon Penland](https://html.com/author/jon-penland/)
 
+[CSS-Tricks](https://css-tricks.com/) by [DigitalOcean](https://www.digitalocean.com/)
+
+
 ### Juegos
 
 [CSSBattle](https://cssbattle.dev/)
