@@ -22,7 +22,6 @@
 
 [40 proyectos de JavaScript para principiantes: Ideas fáciles para empezar a codificar en JS](https://www.freecodecamp.org/espanol/news/40-proyectos-de-javascript-para-principiantes-ideas-faciles-para-empezar-a-codificar-en-js/) por [Rafael D. Hernandez](https://www.freecodecamp.org/espanol/news/author/rafael/)
 
-[Retos de JavaScript 🤯](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1QCcTOSq8F_pSQXVcUFmYA) por [Miguel Ángel Durán - midudev](https://www.youtube.com/c/midudev)
 
 ### Videos
 
