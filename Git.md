@@ -1,3 +1,3 @@
 # Git
 
-[LearnGitBranching](LearnGitBranching.js.org)
+[LearnGitBranching](https://learngitbranching.js.org/)
