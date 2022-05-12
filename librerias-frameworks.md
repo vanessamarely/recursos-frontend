@@ -39,7 +39,6 @@
 # Angular
 
 
-
 ## Español
 
 [Angular traduccion español](https://docs.angular.lat/)
