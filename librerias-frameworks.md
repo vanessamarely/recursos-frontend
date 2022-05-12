@@ -10,7 +10,7 @@
 
 [Librerías de desarrollo de la interfaz](https://www.freecodecamp.org/espanol/learn/front-end-development-libraries/) por freecodecamp
 
-[Notas sobre React] (https://jonmircha.com/react) por [Jonathan MirCha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ)
+[Notas sobre React](https://jonmircha.com/react) por [Jonathan MirCha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ)
 
 
 ### Videos
