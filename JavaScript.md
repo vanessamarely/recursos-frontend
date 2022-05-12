@@ -49,4 +49,4 @@
 
 [Learn JavaScript](https://learnjavascript.online/?utm_source=react-tutorial.app) by [Jad Joubran](https://jadjoubran.io/)
 
-
+[JavaScript Tutorials](https://www.codeanalogies.com/#javascript) by [Kevin](codeanalogies.com)
