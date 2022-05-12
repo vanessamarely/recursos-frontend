@@ -1,7 +1,7 @@
 
 # CSS
 
-[🔙 Volver Recursos](https://github.com/vanessamarely/recursos-frontend/)
+[🔙 Volver Recursos](/)
 
 
 ## Recursos Español
