@@ -12,6 +12,8 @@
 
 [Lenguaje CSS](https://lenguajecss.com/css/) por [@Manz](https://twitter.com/Manz) 
 
+[Los apuntes de Majo - CSS](https://drive.google.com/file/d/1WqIw3tPS6gNhEnma7iHl-PEfByKSIYGK/view?usp=sharing) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
+
 
 ### Quizzes
 
@@ -20,7 +22,7 @@
 
 ### Videos
 
-[Aprende CSS ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=wZniZEbPAzk&ab_channel=HolaMundo) por [HolaMundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
+[Aprende CSS ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=wZniZEbPAzk&ab_channel=HolaMundo) por [HolaMundo - Nicolas Schurmann](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
 
 
 ## Recursos Inglés
@@ -41,6 +43,8 @@
 
 [CSS Tutorials](https://www.codeanalogies.com/#css) by [Kevin](codeanalogies.com)
 
+[CSS Reference](https://cssreference.io/)
+
 
 ### Juegos
 
@@ -55,6 +59,5 @@
 [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 
 [Grid Garden](https://cssgridgarden.com)
-
 
 
