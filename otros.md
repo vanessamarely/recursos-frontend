@@ -12,6 +12,8 @@
 
 [Frontendmentor](https://www.frontendmentor.io/)
 
+[Interneting Is Hard](https://www.internetingishard.com/)
+
 
 ## Web3
 
