@@ -12,6 +12,8 @@
 
 [Lenguaje CSS](https://lenguajecss.com/css/) por [@Manz](https://twitter.com/Manz) 
 
+[Los apuntes de Majo](https://drive.google.com/file/d/1WqIw3tPS6gNhEnma7iHl-PEfByKSIYGK/view?usp=sharing) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
+
 
 ### Quizzes
 
