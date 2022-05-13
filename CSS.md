@@ -22,7 +22,7 @@
 
 ### Videos
 
-[Aprende CSS ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=wZniZEbPAzk&ab_channel=HolaMundo) por [HolaMundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
+[Aprende CSS ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=wZniZEbPAzk&ab_channel=HolaMundo) por [HolaMundo - Nicolas Schurmann](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
 
 
 ## Recursos Inglés
