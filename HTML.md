@@ -33,6 +33,10 @@
 
 [HTML For Beginners The Easy Way](https://html.com/)
 
-[Learn HTML CSS](https://learnhtmlcss.online/?utm_source=learnjavascript.online) by [Jad Joubran](https://jadjoubran.io/)
+[Learn HTML CSS](https://learnhtmlcss.online/) by [Jad Joubran](https://jadjoubran.io/)
+
+[HTML Reference](https://htmlreference.io/)
+
+
 
 
