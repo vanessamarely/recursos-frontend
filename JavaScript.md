@@ -16,6 +16,8 @@
 
 [clean-code-javascript](https://github.com/andersontr15/clean-code-javascript-es)
 
+[Los apuntes de Majo - Javascript](https://drive.google.com/open?id=11Qd_2a9YfHq7Yt4IGLXwWRs6OFpSu-6o) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
+
 
 ### Quizzes
 
