@@ -53,6 +53,9 @@
 
 ## SQL
 
+
+[Los apuntes de Majo - SQL](https://drive.google.com/file/d/1SwcIcPijg0jSjLMAc86gDZV_iDmrKUih/view?usp=sharing) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
+
 [SQL](https://sqlbolt.com/)
 
 
