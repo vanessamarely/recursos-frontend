@@ -12,10 +12,12 @@
 
 [Frontendmentor](https://www.frontendmentor.io/)
 
+[Interneting Is Hard](https://www.internetingishard.com/)
+
 
 ## Web3
 
-[Build web3 apps, easily](https://thirdweb.com/?utm_source=seenweb3&utm_medium=social&utm_campaign=prathkum)
+[Build web3 apps, easily](https://thirdweb.com/)
 
 
 ## Blockchain
@@ -35,7 +37,7 @@
 
 ## Service Worker
 
-[Service Workies](https://serviceworkies.com/) by by [geddski](https://mastery.games/) &  [Google Developers](https://web.dev/)
+[Service Workies](https://serviceworkies.com/) by [geddski](https://mastery.games/) &  [Google Developers](https://web.dev/)
 
 
 ## Deno
@@ -46,11 +48,14 @@
 
 ## API
 
-[rapidapi](rapidapi.com/learn)
+[rapidapi](https://rapidapi.com/learn)
 
 
 ## SQL
 
-[SQL](SQLbolt.com)
+
+[Los apuntes de Majo - SQL](https://drive.google.com/file/d/1SwcIcPijg0jSjLMAc86gDZV_iDmrKUih/view?usp=sharing) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
+
+[SQL](https://sqlbolt.com/)
 
 
