@@ -14,6 +14,10 @@
 
 [Notas sobre React](https://jonmircha.com/react) por [Jonathan MirCha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ)
 
+[Los apuntes de Majo - React](https://drive.google.com/file/d/1Fn43usif0WWG3uggKxN6JpmwhbCBAvj9/view) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
+
+[Los apuntes de Majo - React Hooks](https://drive.google.com/file/d/1kzrqOTPyBsaHp_0EsBoBZyvcCS6o0pwo/view) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
+
 [Redux](https://es.redux.js.org/)
 
 
