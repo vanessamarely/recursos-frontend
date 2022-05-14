@@ -33,6 +33,8 @@ Este repositorio pretende recopilar algunos de los recursos que pueden ser de ay
 
 [Otros](otros.md)
 
+[Libros](Libros.md)
+
 
 # Soporte a los recursos 🆘
 
