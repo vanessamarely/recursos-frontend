@@ -15,15 +15,31 @@
 [Interneting Is Hard](https://www.internetingishard.com/)
 
 
-## Web3
+## Web3 && Blockchain
+
+
+
+### Web 3
 
 [Build web3 apps, easily](https://thirdweb.com/)
+
+[Learn Web3](https://www.learnweb3.io/)
+
+
+#### Videos
+
+[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+[Web3 Tutorial(https://www.youtube.com/playlist?list=PLbbtODcOYIoFs0PDlTdxpEsZiyDR2q9aA)
+
+[Web3 University](https://www.web3.university/tracks/create-a-smart-contract)
 
 
 ## Blockchain
 
 [Learn to Code Blockchain DApps By Building Simple Games](https://cryptozombies.io/)
 
+[Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)
 
 ## PWA
 
