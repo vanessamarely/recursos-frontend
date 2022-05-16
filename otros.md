@@ -12,9 +12,13 @@
 
 [Frontendmentor](https://www.frontendmentor.io/)
 
+
+## Web Dev
+
+[Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+
 ## Web3 && Blockchain
-
-
 
 ### Web 3
 
