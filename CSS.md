@@ -27,7 +27,7 @@
 
 ## Recursos Inglés
 
-[W3 - HTML CSS](https://www.w3.org/standards/webdesign/htmlcss)
+[W3.org - HTML CSS](https://www.w3.org/standards/webdesign/htmlcss)
 
 [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -46,6 +46,8 @@
 [CSS Reference](https://cssreference.io/)
 
 [Hello CSS](https://www.internetingishard.com/html-and-css/hello-css/)
+
+[Sliding Doors of CSS](https://alistapart.com/article/slidingdoors/) by [Douglas Bowman](https://alistapart.com/author/douglasbowman/)
 
 
 ### Juegos
