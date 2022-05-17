@@ -39,3 +39,4 @@
 
 [HTML & CSS Hard](https://www.internetingishard.com/html-and-css/)
 
+[sololearn - HTML](https://www.sololearn.com/learning/1014)
