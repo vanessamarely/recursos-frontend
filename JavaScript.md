@@ -56,6 +56,8 @@
 
 [JavaScript Tutorials](https://www.codeanalogies.com/#javascript) by [Kevin](codeanalogies.com)
 
+[sololearn - JavaScript](https://www.sololearn.com/learning/1024)
+
 
 ### Exercises
 
