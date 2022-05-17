@@ -58,6 +58,17 @@
 
 [sololearn - JavaScript](https://www.sololearn.com/learning/1024)
 
+[W3 school - Javascript]([https://www.w3schools.com/](https://www.w3schools.com/js/default.asp))
+
+[The Modern JavaScript Tutorial](https://javascript.info/)
+
+
+### Videos
+
+[Javascript30](https://javascript30.com/) by [WesBos](https://wesbos.com/)
+
+[Learn JavaScript by Building 7 Games - Full Course](https://youtu.be/ec8vSKJuZTk) by [Ania Kubów](https://www.youtube.com/aniakubow)
+
 
 ### Exercises
 
