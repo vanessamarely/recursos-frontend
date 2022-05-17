@@ -49,6 +49,8 @@
 
 [Sliding Doors of CSS](https://alistapart.com/article/slidingdoors/) by [Douglas Bowman](https://alistapart.com/author/douglasbowman/)
 
+[sololearn - CSS](https://www.sololearn.com/learning/1023)
+
 
 ### Juegos
 
