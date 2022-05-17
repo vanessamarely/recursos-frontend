@@ -35,3 +35,5 @@
 [Learn HTML CSS](https://learnhtmlcss.online/?utm_source=learnjavascript.online) by [Jad Joubran](https://jadjoubran.io/)
 
 [HTML & CSS is Hard](https://www.internetingishard.com/html-and-css/)
+
+[sololearn - HTML](https://www.sololearn.com/learning/1014)
