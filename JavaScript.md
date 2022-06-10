@@ -18,6 +18,8 @@
 
 [Los apuntes de Majo - Javascript](https://drive.google.com/open?id=11Qd_2a9YfHq7Yt4IGLXwWRs6OFpSu-6o) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
 
+[33-js-conceptos](https://github.com/adonismendozaperez/33-js-conceptos) por [adonismendozaperez](https://github.com/adonismendozaperez)
+
 
 ### Quizzes
 
@@ -60,6 +62,14 @@
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) by [Oleksii Trekhleb](https://github.com/trekhleb)
+
+[33-js-concepts](https://github.com/leonardomso/33-js-concepts) by [leonardomso](https://github.com/leonardomso)
+
+[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) by [ryanmcdermott](https://github.com/ryanmcdermott)
+
+[ES6-for-humans](https://github.com/metagrover/ES6-for-humans) by [metagrover](https://github.com/metagrover/)
+
 
 ### Videos
 
@@ -71,3 +81,8 @@
 ### Exercises
 
 [Explore the JavaScript exercises](https://exercism.org/tracks/javascript/exercises) by [Exercism](https://exercism.org/)
+
+
+### Questions
+
+[javascript-questions](https://github.com/lydiahallie/javascript-questions) by [lydiahallie](https://github.com/lydiahallie)
