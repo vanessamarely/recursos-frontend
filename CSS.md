@@ -27,7 +27,7 @@
 
 ## Recursos Inglés
 
-[W3 - HTML CSS](https://www.w3.org/standards/webdesign/htmlcss)
+[W3.org - HTML CSS](https://www.w3.org/standards/webdesign/htmlcss)
 
 [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -51,6 +51,9 @@
 
 [sololearn - CSS](https://www.sololearn.com/learning/1023)
 
+[CSS reference](https://devdocs.io/css/)
+
+
 ### Juegos
 
 [CSSBattle](https://cssbattle.dev/)
@@ -64,5 +67,3 @@
 [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 
 [Grid Garden](https://cssgridgarden.com)
-
-
