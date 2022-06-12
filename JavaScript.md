@@ -70,12 +70,18 @@
 
 [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) by [metagrover](https://github.com/metagrover/)
 
+[The Modern JavaScript Tutorial](https://javascript.info/)
+
+[JavaScript reference](https://devdocs.io/javascript/)
+
 
 ### Videos
 
 [Javascript30](https://javascript30.com/) by [WesBos](https://wesbos.com/)
 
 [Learn JavaScript by Building 7 Games - Full Course](https://youtu.be/ec8vSKJuZTk) by [Ania Kubów](https://www.youtube.com/aniakubow)
+
+[JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) by [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 
 
 ### Exercises
