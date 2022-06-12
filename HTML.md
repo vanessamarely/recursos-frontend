@@ -13,6 +13,8 @@
 
 [HTML Introduccion](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) por [Andros Fenollosa](https://programadorwebvalencia.com/#contact)
 
+[Lenguaje HTML5](https://lenguajehtml.com/html/) por [@Manz](https://twitter.com/Manz) 
+
 [Metamorfosis - HTML](https://ngchallenges.gitbook.io/metamorfosis-de-angular/nivel-0-oruga/que-es-html)por [vanessamarely](https://github.com/vanessamarely)
 
 ### Videos
@@ -32,8 +34,12 @@
 
 [HTML For Beginners The Easy Way](https://html.com/)
 
-[Learn HTML CSS](https://learnhtmlcss.online/?utm_source=learnjavascript.online) by [Jad Joubran](https://jadjoubran.io/)
+[Learn HTML CSS](https://learnhtmlcss.online/) by [Jad Joubran](https://jadjoubran.io/)
 
-[HTML & CSS is Hard](https://www.internetingishard.com/html-and-css/)
+[HTML Reference](https://htmlreference.io/)
+
+[HTML & CSS Hard](https://www.internetingishard.com/html-and-css/)
 
 [sololearn - HTML](https://www.sololearn.com/learning/1014)
+
+[HTML: HyperText Markup Language](https://devdocs.io/html/)
