@@ -13,7 +13,7 @@
 
 [HTML Introduccion](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) por [Andros Fenollosa](https://programadorwebvalencia.com/#contact)
 
-[Lenguaje HTML5](https://lenguajehtml.com/html/) por [@Manz](https://twitter.com/Manz) 
+[Lenguaje HTML5](https://lenguajehtml.com/html/) por [@Manz](https://twitter.com/Manz)
 
 [Metamorfosis - HTML](https://ngchallenges.gitbook.io/metamorfosis-de-angular/nivel-0-oruga/que-es-html)por [vanessamarely](https://github.com/vanessamarely)
 
@@ -21,6 +21,7 @@
 
 [Curso HTML & CSS](https://www.youtube.com/watch?v=-oK6zL01fNM&ab_channel=jonmircha) por [Jonathan MirCha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ)
 
+[Workshop Frontend - Figma, HTML5, CSS & JAVASCRIPT ](https://blog-voltadev.vercel.app/blog/worshop-frontend) por [volta2016](https://github.com/volta2016)
 
 ## Recursos Inglés
 
