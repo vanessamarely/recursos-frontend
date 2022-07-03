@@ -9,8 +9,9 @@
 
 [git - la guía sencilla](https://rogerdudler.github.io/git-guide/index.es.html) by [Roger Dudler](https://twitter.com/rogerdudler) traducido por [@lfbarragan](https://twitter.com/lfbarragan) y [@adrimatellanes](https://twitter.com/adrimatellanes)
 
-[Los apuntes de Majo - Git](https://drive.google.com/file/d/1sHgKrrea1-HpityOEYqFLjRdaum85CnW/view?usp=sharing) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes) 
+[Los apuntes de Majo - Git](https://drive.google.com/file/d/1sHgKrrea1-HpityOEYqFLjRdaum85CnW/view?usp=sharing) por [Majo Ledesma - @MajoLedes](https://twitter.com/MajoLedes)
 
+[Resumen estudios git 2021 - 2022](https://github.com/volta2016/git2021) por [volta2016](https://github.com/volta2016)
 
 ## Ingles
 
