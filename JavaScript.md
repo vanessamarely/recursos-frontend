@@ -20,7 +20,7 @@
 
 [Asincronía en JavaScript](https://blog-voltadev.vercel.app/blog/asincronia-en-javascript) por [volta2016](https://github.com/volta2016)
 
-[Resumen fudamentos de JavaScript](https://github.com/volta2016/ECMASCRIPT) por [volta2016](https://github.com/volta2016)
+[Resumen fundamentos de JavaScript](https://github.com/volta2016/ECMASCRIPT) por [volta2016](https://github.com/volta2016)
 
 ### Quizzes
 
