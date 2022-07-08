@@ -56,7 +56,7 @@
 
 [JavaScript Tutorials](https://www.codeanalogies.com/#javascript) by [Kevin](codeanalogies.com)
 
-[W3 school - Javascript](<[https://www.w3schools.com/](https://www.w3schools.com/js/default.asp)>)
+[W3 school - Javascript]([https://www.w3schools.com/](https://www.w3schools.com/js/default.asp))
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
