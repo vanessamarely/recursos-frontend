@@ -7,9 +7,18 @@ En la actualidad hay muchas personas con un gran interés por aprender sobre tec
 Este repositorio pretende recopilar algunos de los recursos que pueden ser de ayuda a los interesados en aprender el gran mundo de Frontend. Algunos recursos los recomiendo en mis mentorias y otros los he encontrado en la Web (google o redes sociales), y su contenido es muy interesante y de un muy valioso aporte para todos.
 
 
-## Plan de carrera frontend
+## Página GithubPages
 
-[Roadmap Frontend](https://roadmap.sh/frontend)
+Este proyecto se hostea en github pages, y puedes visitarlo haciendo uso del siguiente link:
+
+[recursos-frontend](https://vanessamarely.github.io/recursos-frontend/)
+
+
+## Plan de carrera Frontend
+
+Existen muchas rutas de aprendizaje en internet, algunas incluso son generadas por academias que forman en el mundo del Frontend, te comparto el siguiente recurso que puede servirte de guia para trazarte tu propia ruta de aprendizaje, el cual es un open source:
+
+[Roadmap Frontend](https://roadmap.sh/frontend) by [Kamran Ahmed](https://github.com/kamranahmedse) 
 
 
 # Indice
