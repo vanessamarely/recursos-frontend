@@ -58,8 +58,6 @@
 
 [W3 school - Javascript]([https://www.w3schools.com/](https://www.w3schools.com/js/default.asp))
 
-[The Modern JavaScript Tutorial](https://javascript.info/)
-
 [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) by [Oleksii Trekhleb](https://github.com/trekhleb)
 
 [33-js-concepts](https://github.com/leonardomso/33-js-concepts) by [leonardomso](https://github.com/leonardomso)
@@ -67,8 +65,6 @@
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) by [ryanmcdermott](https://github.com/ryanmcdermott)
 
 [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) by [metagrover](https://github.com/metagrover/)
-
-[The Modern JavaScript Tutorial](https://javascript.info/)
 
 [JavaScript reference](https://devdocs.io/javascript/)
 
