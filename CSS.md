@@ -25,6 +25,10 @@
 [Aprende CSS ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=wZniZEbPAzk&ab_channel=HolaMundo) por [HolaMundo - Nicolas Schurmann](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg)
 
 
+[Curso Completo de CSS - De Cero a Experto (+20 hrs)](https://t.co/KOV9CbJEiN) por [Vida MRR - Diseño y desarrollo web](https://www.youtube.com/c/VidaMRR)
+
+
+
 ## Recursos Inglés
 
 [W3.org - HTML CSS](https://www.w3.org/standards/webdesign/htmlcss)
