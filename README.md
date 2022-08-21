@@ -23,6 +23,10 @@ Existen muchas rutas de aprendizaje en internet, algunas incluso son generadas p
 
 # Indice
 
+## Internet
+### HTTP (protocolos)
+### Navegadores
+### Web
 
 ## [HTML](HTML.md)
 
