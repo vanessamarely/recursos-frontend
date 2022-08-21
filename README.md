@@ -24,21 +24,21 @@ Existen muchas rutas de aprendizaje en internet, algunas incluso son generadas p
 # Indice
 
 
-[HTML](HTML.md)
+## [HTML](HTML.md)
 
-[CSS](CSS.md)
+## [CSS](CSS.md)
 
-[JavaScript](JavaScript.md)
+## [JavaScript](JavaScript.md)
 
-[TypeScript](TypeScript.md)
+## [TypeScript](TypeScript.md)
 
-[Librerías- Frameworks](librerias-frameworks.md)
+## [Librerías- Frameworks](librerias-frameworks.md)
 
-[Git](Git.md)
+## [Git](Git.md)
 
-[Otros](otros.md)
+## [Otros](otros.md)
 
-[Libros](Libros.md)
+## [Libros](Libros.md)
 
 
 # Soporte a los recursos 🆘
