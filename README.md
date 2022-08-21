@@ -11,7 +11,7 @@ Este repositorio pretende recopilar algunos de los recursos que pueden ser de ay
 
 Este proyecto se hostea en github pages, y puedes visitarlo haciendo uso del siguiente link:
 
-[recursos-frontend](https://vanessamarely.github.io/recursos-frontend/)
+[Recursos Frontend](https://vanessamarely.github.io/recursos-frontend/)
 
 
 ## Plan de carrera Frontend
