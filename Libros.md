@@ -2,6 +2,10 @@
 
 [🔙 Volver Recursos](https://vanessamarely.github.io/recursos-frontend/)
 
+## Libros
+
+[List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
+
 
 ## Libros Inglés
 
