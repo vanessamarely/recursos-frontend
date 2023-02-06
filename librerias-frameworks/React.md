@@ -40,6 +40,8 @@
 
 [The React "post-mortem" guidelines](https://react.polyconseil.fr/) by [polyconseil](https://www.polyconseil.fr/)
 
+[React Basics](https://github.com/learning-zone/react-basics) by [learning-zone](https://github.com/learning-zone)
+
 
 ### Roadmap
 
