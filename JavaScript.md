@@ -68,6 +68,10 @@
 
 [JavaScript reference](https://devdocs.io/javascript/)
 
+## Proyectos
+
+[50projects50days](https://github.com/bradtraversy/50projects50days) by [bradtraversy](https://github.com/bradtraversy)
+
 ### Videos
 
 [Javascript30](https://javascript30.com/) by [WesBos](https://wesbos.com/)
