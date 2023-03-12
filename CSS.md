@@ -27,6 +27,11 @@
 [Curso Completo de CSS - De Cero a Experto (+20 hrs)](https://t.co/KOV9CbJEiN) por [Vida MRR - Diseño y desarrollo web](https://www.youtube.com/c/VidaMRR)
 
 
+### Artículos
+
+[lupitacode](https://dev.to/lupitacode)
+
+
 ## Recursos Inglés
 
 [W3.org - HTML CSS](https://www.w3.org/standards/webdesign/htmlcss)
