@@ -88,6 +88,13 @@
 
 [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) by [goldbergyoni](https://github.com/goldbergyoni)
 
+[Efficient Node.js: A Beyond the Basics Guide](https://github.com/samerbuna/efficient-node/blob/main/100-learning-node-runtime.adoc) by [
+Dmitri Zaitsev](https://github.com/dmitriz)
+
+[Learn You The Node.js For Much Win!](https://github.com/workshopper/stream-adventure) by [workshopper](https://github.com/workshopper)
+
+[stream adventure](https://github.com/workshopper/stream-adventure) by [workshopper](https://github.com/workshopper)
+
 
 ## Service Worker
 
