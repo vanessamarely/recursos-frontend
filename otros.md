@@ -128,3 +128,9 @@ Dmitri Zaitsev](https://github.com/dmitriz)
 [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)
 
 
+## Design Patterns
+
+[JavaScript Patterns](https://javascriptpatterns.vercel.app/patterns) by [Lydia Hallie](https://github.com/lydiahallie)
+
+
+
