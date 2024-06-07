@@ -18,11 +18,18 @@ HTTP (Hypertext Transfer Protocol) is the foundation of data communication for t
 
 - **1xx (Informational)**: The request was received, continuing process.
 - **2xx (Successful)**: The request was successfully received, understood, and accepted.
-- **3xx (Redirection)**: Further action needs to be taken in order to complete the request.
+- **3xx (Redirection)**: I would need to take further action to complete the request.
 - **4xx (Client Error)**: The request contains bad syntax or cannot be fulfilled.
-- **5xx (Server Error)**: The server failed to fulfill an apparently valid request.
+- **5xx (Server Error)**: The server failed to fulfill a valid request.
 
 ## HTTP Security
 
-- **HTTPS (Hypertext Transfer Protocol Secure)**: An extension of HTTP that is used for secure communication over a computer network, widely used on the Internet. It provides a secure channel over an insecure network in a client-server model.
+- **HTTPS (Hypertext Transfer Protocol Secure)**: An extension of HTTP used for secure communication over a computer network, widely used on the Internet. It provides a secure channel over an insecure network in a client-server model.
+
+
+## Useful links
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP
+
+
 
