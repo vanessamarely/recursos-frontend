@@ -25,8 +25,8 @@ Existen muchas rutas de aprendizaje en internet, algunas incluso son generadas p
 
 ## Internet
 ### [HTTP (protocolos)](HTTP.md)
-### Navegadores
-### Web
+### [Navegadores](browsers.md)
+### [Web](web.md)
 
 ## [HTML](HTML.md)
 
