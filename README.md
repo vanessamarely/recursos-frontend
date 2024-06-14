@@ -49,3 +49,6 @@ Existen muchas rutas de aprendizaje en internet, algunas incluso son generadas p
 
 Existen muchos recursos que tal vez no alcance a recopilar en este repositorio, te agradecería mucho si ayudas a contribuir incluyéndolos, para que podamos construir una guía que sea de ayuda para todos.
 
+## Actualización Automática de Contenido en gh-pages
+
+Para garantizar que el contenido de `gh-pages` esté siempre actualizado con el contenido más reciente de la rama principal, se ha implementado un proceso de actualización automática. Este proceso se lleva a cabo mediante el archivo de flujo de trabajo `update-gh-pages.yml` ubicado en el directorio `.github/workflows`. Cada vez que se realiza un push a la rama principal, este flujo de trabajo se activa automáticamente, construyendo y desplegando el sitio a `gh-pages`, asegurando así que el contenido esté sincronizado y actualizado.
