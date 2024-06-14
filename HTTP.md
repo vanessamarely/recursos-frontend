@@ -1,35 +1,32 @@
 # HTTP
 
-## HTTP Protocols
+## Protocolos HTTP
 
-HTTP (Hypertext Transfer Protocol) is the foundation of data communication for the World Wide Web. It is an application layer protocol designed to transfer information between networked devices and includes a set of rules for formatting and transferring web page data.
+HTTP (Protocolo de Transferencia de Hipertexto) es la base de la comunicación de datos para la World Wide Web. Es un protocolo de la capa de aplicación diseñado para transferir información entre dispositivos en red e incluye un conjunto de reglas para formatear y transferir datos de páginas web.
 
-## HTTP Methods
+## Métodos HTTP
 
-- **GET**: Requests data from a specified resource.
-- **POST**: Submits data to be processed to a specified resource.
-- **PUT**: Updates a specified resource.
-- **DELETE**: Deletes a specified resource.
-- **HEAD**: Same as GET but returns only HTTP headers and no document body.
-- **OPTIONS**: Returns the HTTP methods that the server supports.
-- **PATCH**: Applies partial modifications to a resource.
+- **GET**: Solicita datos de un recurso especificado.
+- **POST**: Envía datos para ser procesados a un recurso especificado.
+- **PUT**: Actualiza un recurso especificado.
+- **DELETE**: Elimina un recurso especificado.
+- **HEAD**: Igual que GET pero solo devuelve los encabezados HTTP y no el cuerpo del documento.
+- **OPTIONS**: Devuelve los métodos HTTP que el servidor soporta.
+- **PATCH**: Aplica modificaciones parciales a un recurso.
 
-## HTTP Status Codes
+## Códigos de Estado HTTP
 
-- **1xx (Informational)**: The request was received, continuing process.
-- **2xx (Successful)**: The request was successfully received, understood, and accepted.
-- **3xx (Redirection)**: I would need to take further action to complete the request.
-- **4xx (Client Error)**: The request contains bad syntax or cannot be fulfilled.
-- **5xx (Server Error)**: The server failed to fulfill a valid request.
+- **1xx (Informativo)**: La solicitud fue recibida, continuando proceso.
+- **2xx (Exitoso)**: La solicitud fue recibida, entendida y aceptada con éxito.
+- **3xx (Redirección)**: Se debe tomar más acción para completar la solicitud.
+- **4xx (Error del Cliente)**: La solicitud contiene una sintaxis incorrecta o no puede ser cumplida.
+- **5xx (Error del Servidor)**: El servidor falló al cumplir una solicitud válida.
 
-## HTTP Security
+## Seguridad HTTP
 
-- **HTTPS (Hypertext Transfer Protocol Secure)**: An extension of HTTP used for secure communication over a computer network, widely used on the Internet. It provides a secure channel over an insecure network in a client-server model.
-
-
-## Useful links
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP
+- **HTTPS (Protocolo de Transferencia de Hipertexto Seguro)**: Una extensión de HTTP utilizada para comunicación segura sobre una red de computadoras, ampliamente utilizada en Internet. Proporciona un canal seguro sobre una red insegura en un modelo cliente-servidor.
 
 
+## Enlaces útiles
 
+https://developer.mozilla.org/es/docs/Web/HTTP

@@ -2,6 +2,10 @@
 
 [🔙 Volver Recursos](https://github.com/vanessamarely/recursos-frontend/)
 
+## Conceptos Básicos de HTML
+
+HTML (Lenguaje de Marcado de Hipertexto) es el estándar que se utiliza para crear y diseñar páginas web. Permite estructurar la información con elementos como títulos, párrafos, listas, enlaces, imágenes, entre otros, y es fundamental para el desarrollo web. Aprender HTML es el primer paso para convertirse en desarrollador web, ya que es la base sobre la que se construyen todas las páginas web.
+
 ## Recursos Español
 
 [MDN - HTML](https://developer.mozilla.org/es/docs/Web/HTML)

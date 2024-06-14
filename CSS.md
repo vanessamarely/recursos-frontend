@@ -1,8 +1,10 @@
-
 # CSS
 
 [🔙 Volver Recursos](https://github.com/vanessamarely/recursos-frontend)
 
+## Conceptos Básicos de CSS
+
+CSS (Hojas de Estilo en Cascada) es un lenguaje de hojas de estilo utilizado para describir la presentación de un documento escrito en HTML o XML. CSS describe cómo deben ser renderizados los elementos en la pantalla, en papel, en el habla, o en otros medios. Con CSS, puedes controlar el color del texto, el estilo de las fuentes, el espaciado entre párrafos, cómo se dividen las columnas, qué imágenes o colores de fondo se utilizan, diseños de diferentes dispositivos y tamaños de pantalla, y mucho más.
 
 ## Recursos Español
 
@@ -74,6 +76,3 @@
 [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 
 [Grid Garden](https://cssgridgarden.com)
-
-
-
