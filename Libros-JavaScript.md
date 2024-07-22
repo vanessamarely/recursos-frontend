@@ -11,10 +11,8 @@
 - [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/) by Douglas Crockford
 
-## Libros de Axel Rauschmayer
-
-- [Exploring ES6](https://exploringjs.com/es6/)
-- [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/)
-- [Exploring ES2018](https://exploringjs.com/es2018/)
-- [Exploring ES2019](https://exploringjs.com/es2019/)
-- [Exploring ES2020](https://exploringjs.com/es2020/)
+- [Exploring ES6](https://exploringjs.com/es6/) by  from Axel Rauschmayer
+- [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/) by  from Axel Rauschmayer
+- [Exploring ES2018](https://exploringjs.com/es2018/) by  from Axel Rauschmayer
+- [Exploring ES2019](https://exploringjs.com/es2019/) by  from Axel Rauschmayer
+- [Exploring ES2020](https://exploringjs.com/es2020/) by  from Axel Rauschmayer
