@@ -43,6 +43,7 @@ Existen muchas rutas de aprendizaje en internet, algunas incluso son generadas p
 ## [Otros](otros.md)
 
 ## [Libros](Libros.md)
+### [Libros de JavaScript](Libros-JavaScript.md)
 
 
 # Soporte a los recursos 🆘
