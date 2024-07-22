@@ -13,5 +13,5 @@
 - [Exploring ES6](https://exploringjs.com/es6/) by Axel Rauschmayer
 - [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/) by Axel Rauschmayer
 - [Exploring ES2018](https://exploringjs.com/es2018/) by Axel Rauschmayer
-- [Speaking JavaScript: An In-Depth Guide for Programmers]([https://exploringjs.com/es2019/](https://exploringjs.com/es5/index.html)) by Axel Rauschmayer
+- [Speaking JavaScript: An In-Depth Guide for Programmers](https://exploringjs.com/es5/index.html) by Axel Rauschmayer
 
