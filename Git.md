@@ -2,6 +2,34 @@
 
 [🔙 Volver Recursos](https://github.com/vanessamarely/recursos-frontend/)
 
+## Conceptos Básicos de Git
+
+### Conceptos
+
+- **Repositorio**: Un repositorio es un espacio de almacenamiento donde se guarda el código fuente de un proyecto y su historial de cambios.
+- **Commit**: Un commit es una instantánea del estado actual del proyecto. Representa un punto en el historial de cambios.
+- **Branch**: Una branch es una rama del proyecto que permite trabajar en diferentes versiones del código de forma simultánea.
+- **Merge**: Un merge es la acción de combinar los cambios de una branch con otra.
+- **Clone**: Clonar un repositorio significa crear una copia local del mismo en tu máquina.
+- **Pull**: Un pull es la acción de traer los cambios de un repositorio remoto a tu repositorio local.
+- **Push**: Un push es la acción de enviar los cambios de tu repositorio local a un repositorio remoto.
+
+### Comandos
+
+- `git init`: Inicializa un nuevo repositorio Git.
+- `git clone`: Clona un repositorio existente.
+- `git status`: Muestra el estado de los archivos en el repositorio.
+- `git add`: Añade archivos al área de preparación.
+- `git commit`: Crea un nuevo commit con los cambios en el área de preparación.
+- `git push`: Envía los cambios al repositorio remoto.
+- `git pull`: Trae los cambios del repositorio remoto al repositorio local.
+- `git branch`: Muestra las ramas del repositorio o crea una nueva rama.
+- `git merge`: Combina los cambios de una rama con otra.
+
+## Definiciones de Repositorios
+
+- **GitHub**: "GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git."
+
 ## Español
 
 [Git Book](https://git-scm.com/book/es/v2)
