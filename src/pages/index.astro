@@ -7,7 +7,8 @@ import { marked } from 'marked';
 const readmePath = path.join(process.cwd(), 'README.md');
 const readmeContent = fs.readFileSync(readmePath, 'utf-8');
 const baseUrl = import.meta.env.BASE_URL;
-const htmlContent = (await marked(readmeContent)).replace(/(href|src)="\/(?!\/)/g, `$1="${baseUrl}`);
+const normalizedBase = baseUrl === '/' ? '' : baseUrl.replace(/\/$/, '');
+const htmlContent = (await marked(readmeContent)).replace(/(href|src)="\/(?!\/)/g, `$1="${normalizedBase}/`);
 ---
 
 <MainLayout title="Inicio" activeSlug="home">
