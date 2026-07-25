@@ -4,6 +4,10 @@
 
 HTTP (Protocolo de Transferencia de Hipertexto) es la base de la comunicación de datos para la World Wide Web. Es un protocolo de la capa de aplicación diseñado para transferir información entre dispositivos en red e incluye un conjunto de reglas para formatear y transferir datos de páginas web.
 
+<div class="hint">
+	<strong>Hint:</strong> HTTP funciona siguiendo un modelo cliente-servidor. El cliente (por ejemplo, un navegador) inicia la conexión, y el servidor responde con recursos (HTML, JSON, imágenes).
+</div>
+
 ## Métodos HTTP
 
 - **GET**: Solicita datos de un recurso especificado.
@@ -30,3 +34,10 @@ HTTP (Protocolo de Transferencia de Hipertexto) es la base de la comunicación d
 ## Enlaces útiles
 
 https://developer.mozilla.org/es/docs/Web/HTTP
+
+<div class="exercise">
+	<h4>Ejercicio rápido</h4>
+	<p>Prueba a usar <span class="badge">curl</span> para solicitar el encabezado de una página (sin descargar el body):</p>
+	<pre><code>curl -I https://developer.mozilla.org/</code></pre>
+	<p>Observa el código de estado y los encabezados <code>Content-Type</code> y <code>Cache-Control</code>.</p>
+</div>

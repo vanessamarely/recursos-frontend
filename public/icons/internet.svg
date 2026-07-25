@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <rect width="24" height="24" rx="5" fill="#0ea5e9"/>
+  <circle cx="12" cy="12" r="7" stroke="#ffffff" stroke-width="1.4" opacity="0.95"/>
+  <path d="M5 12h14M12 5c2.2 2.2 2.2 11.8 0 14M12 5c-2.2 2.2-2.2 11.8 0 14" stroke="#ffffff" stroke-width="1.1" stroke-linecap="round"/>
+  <text x="12" y="13.4" text-anchor="middle" font-size="4.2" font-weight="700" fill="#ffffff" font-family="Inter, Arial">WWW</text>
+</svg>

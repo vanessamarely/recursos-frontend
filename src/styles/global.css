@@ -3,17 +3,19 @@
 @tailwind utilities;
 
 :root {
-  --background: #fafafa;
-  --foreground: #1a1a2e;
+  --background: #f6f7fb;
+  --foreground: #0f1724;
+  --code-foreground: #e6eef6;
   --card: #ffffff;
-  --card-foreground: #1a1a2e;
-  --primary: #7c3aed;
+  --card-foreground: #0f1724;
+  --primary: #1d4ed8;
   --primary-foreground: #ffffff;
-  --muted: #f3f0ff;
-  --muted-foreground: #6b7280;
-  --accent: #a855f7;
+  --muted: #eff6ff;
+  --muted-foreground: #475569;
+  --accent: #0f766e;
   --accent-foreground: #ffffff;
-  --border: #e5e0f5;
+  --border: #e6e8f2;
+  --code-bg: #0b1220;
 }
 
 body {
@@ -56,10 +58,65 @@ body {
 }
 
 .prose pre {
-  background-color: #1e1e2e;
+  background-color: var(--code-bg);
   border-radius: 0.5rem;
+  padding: 1rem;
+  color: var(--code-foreground);
+  overflow: auto;
+}
+
+.prose pre code {
+  background: transparent;
+  color: inherit;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', 'Segoe UI Mono', monospace;
+  font-size: 0.9rem;
 }
 
 .prose ul li::marker {
   color: var(--primary);
 }
+
+/* Hints, ejercicios y tarjetas visuales */
+.hint {
+  background: linear-gradient(90deg, rgba(29,78,216,0.08), rgba(15,118,110,0.04));
+  border-left: 4px solid var(--primary);
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+  color: var(--foreground);
+  box-shadow: 0 1px 2px rgba(26,26,46,0.04);
+}
+.hint strong { color: var(--primary); }
+
+.exercise {
+  background: linear-gradient(90deg, rgba(15,118,110,0.08), rgba(29,78,216,0.04));
+  border-left: 4px solid var(--accent);
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}
+.exercise h4 { margin-top: 0; color: var(--accent); }
+
+.visual-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 6px 18px rgba(17,24,39,0.04);
+  margin: 1rem 0;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 9999px;
+  background: var(--muted);
+  color: var(--muted-foreground);
+  font-size: 0.75rem;
+  margin-right: 0.5rem;
+}
+
+/* Make tables and images inside content more visible */
+.prose table { border-collapse: collapse; width: 100%; }
+.prose table th, .prose table td { border: 1px solid var(--border); padding: 0.5rem; }
+.prose img { max-width: 100%; border-radius: 0.5rem; box-shadow: 0 6px 18px rgba(17,24,39,0.04); }

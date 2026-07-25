@@ -4,13 +4,13 @@
 # Librerias
 
 
-[React](/librerias-frameworks/React.md)
+[React](/react)
 
 
 # Frameworks
 
 
-[Angular](/librerias-frameworks/Angular.md)
+[Angular](/angular)
 
 
-[Vue](/librerias-frameworks/Vue.md)
+[Vue](/vue)

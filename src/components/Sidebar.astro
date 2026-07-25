@@ -16,37 +16,37 @@ const navigation: NavItem[] = [
   {
     title: 'Internet',
     slug: 'internet',
-    icon: '🌐',
+    icon: 'internet',
     children: [
-      { title: 'HTTP (Protocolos)', slug: 'http', icon: '📡' },
-      { title: 'Navegadores', slug: 'browsers', icon: '🧭' },
-      { title: 'Web', slug: 'web', icon: '🕸️' },
+      { title: 'HTTP (Protocolos)', slug: 'http', icon: 'internet' },
+      { title: 'Navegadores', slug: 'browsers', icon: 'internet' },
+      { title: 'Web', slug: 'web', icon: 'internet' },
     ],
   },
-  { title: 'HTML', slug: 'html', icon: '📄' },
-  { title: 'CSS', slug: 'css', icon: '🎨' },
-  { title: 'JavaScript', slug: 'javascript', icon: '⚡' },
-  { title: 'TypeScript', slug: 'typescript', icon: '🔷' },
+  { title: 'HTML', slug: 'html', icon: 'html' },
+  { title: 'CSS', slug: 'css', icon: 'css' },
+  { title: 'JavaScript', slug: 'javascript', icon: 'javascript' },
+  { title: 'TypeScript', slug: 'typescript', icon: 'typescript' },
   {
     title: 'Librerías & Frameworks',
     slug: 'librerias-frameworks',
-    icon: '📦',
+    icon: 'librerias-frameworks',
     children: [
-      { title: 'General', slug: 'librerias-frameworks', icon: '📦' },
-      { title: 'Angular', slug: 'angular', icon: '🅰️' },
-      { title: 'React', slug: 'react', icon: '⚛️' },
-      { title: 'Vue', slug: 'vue', icon: '💚' },
+      { title: 'General', slug: 'librerias-frameworks', icon: 'librerias-frameworks' },
+        { title: 'Angular', slug: 'angular', icon: 'angular' },
+        { title: 'React', slug: 'react', icon: 'react' },
+        { title: 'Vue', slug: 'vue', icon: 'vue' },
     ],
   },
-  { title: 'Git', slug: 'git', icon: '🔀' },
-  { title: 'Otros', slug: 'otros', icon: '🔧' },
+  { title: 'Git', slug: 'git', icon: 'git' },
+  { title: 'Otros', slug: 'otros', icon: 'otros' },
   {
     title: 'Libros',
     slug: 'libros',
-    icon: '📚',
+    icon: 'libros',
     children: [
-      { title: 'General', slug: 'libros', icon: '📚' },
-      { title: 'JavaScript', slug: 'libros-javascript', icon: '📗' },
+      { title: 'General', slug: 'libros', icon: 'libros' },
+        { title: 'JavaScript', slug: 'libros-javascript', icon: 'libros-javascript' },
     ],
   },
 ];
@@ -64,12 +64,10 @@ function hasActiveChild(item: NavItem, currentSlug?: string): boolean {
 <div class="flex flex-col h-full">
   <div class="p-6 border-b border-border">
     <a href="/" class="flex items-center gap-3 mb-2 no-underline">
-      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
-        <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
-      </svg>
+      <img src="/icons/logo.svg" alt="Recursos logo" class="w-8 h-8" />
       <div>
         <h1 class="text-xl font-bold text-foreground">Recursos Frontend</h1>
-        <p class="text-xs text-muted-foreground">Tu guía de aprendizaje 📚</p>
+        <p class="text-xs text-muted-foreground">Tu guía de aprendizaje</p>
       </div>
     </a>
   </div>
@@ -81,7 +79,7 @@ function hasActiveChild(item: NavItem, currentSlug?: string): boolean {
         return (
           <details open={groupActive || isActive(item.slug, activeSlug)} class="group">
             <summary class="flex items-center gap-3 px-3 py-3 rounded-md cursor-pointer hover:bg-muted font-medium text-sm list-none">
-              <span class="text-lg flex-shrink-0">{item.icon}</span>
+              <img src={`/icons/${item.icon}.svg`} alt={`${item.title} icon`} class="w-6 h-6 flex-shrink-0" />
               <span class="flex-1">{item.title}</span>
               <svg class="w-4 h-4 transition-transform group-open:rotate-180 text-muted-foreground" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
@@ -98,7 +96,7 @@ function hasActiveChild(item: NavItem, currentSlug?: string): boolean {
                       : 'text-muted-foreground hover:bg-muted hover:text-foreground',
                   ]}
                 >
-                  <span class="text-base flex-shrink-0">{child.icon}</span>
+                  <img src={`/icons/${child.icon}.svg`} alt={`${child.title} icon`} class="w-5 h-5 flex-shrink-0" />
                   <span>{child.title}</span>
                 </a>
               ))}
@@ -117,7 +115,7 @@ function hasActiveChild(item: NavItem, currentSlug?: string): boolean {
               : 'text-muted-foreground hover:bg-muted hover:text-foreground',
           ]}
         >
-          <span class="text-lg flex-shrink-0">{item.icon}</span>
+          <img src={`/icons/${item.icon}.svg`} alt={`${item.title} icon`} class="w-6 h-6 flex-shrink-0" />
           <span>{item.title}</span>
         </a>
       );

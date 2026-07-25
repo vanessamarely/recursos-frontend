@@ -9,6 +9,10 @@ JavaScript es un lenguaje de programación interpretado, orientado a objetos y d
 ## Conceptos Básicos de JavaScript
 
 - **Sintaxis**: La sintaxis de JavaScript se basa en el uso de declaraciones, expresiones y operadores. Las declaraciones se utilizan para definir variables, funciones y estructuras de control de flujo.
+-
+<div class="hint">
+  <strong>Hint:</strong> Si eres nuevo, empieza practicando con <span class="badge">console.log()</span> para entender el flujo de ejecución y ver resultados inmediatos en la consola del navegador.
+</div>
 - **Variables**: Las variables en JavaScript se utilizan para almacenar datos. Se pueden declarar utilizando las palabras clave `var`, `let` o `const`.
 - **Funciones**: Las funciones son bloques de código reutilizables que realizan una tarea específica. Se pueden definir utilizando la palabra clave `function` o mediante funciones de flecha.
 - **Eventos**: Los eventos son acciones que ocurren en una página web, como hacer clic en un botón o mover el ratón. JavaScript permite manejar estos eventos y realizar acciones en respuesta a ellos.
@@ -35,6 +39,18 @@ var nombre = "Juan";
 let edad = 25;
 const PI = 3.1416;
 ```
+
+<div class="exercise">
+  <h4>Ejercicio</h4>
+  <p>Escribe una función `max(a, b)` que devuelva el mayor de dos números. Prueba con varios pares y usa <span class="badge">console.assert</span> para validar.</p>
+  <pre><code>function max(a, b) {
+  // tu código
+}
+
+console.assert(max(3,5) === 5);
+console.assert(max(10,2) === 10);
+  </code></pre>
+</div>
 
 ### Funciones
 
