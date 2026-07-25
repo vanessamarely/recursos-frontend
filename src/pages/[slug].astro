@@ -1,0 +1,46 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+import { marked } from 'marked';
+
+const SLUG_MAP: Record<string, { file: string; title: string }> = {
+  'http': { file: 'content/HTTP.md', title: 'HTTP (Protocolos)' },
+  'browsers': { file: 'content/browsers.md', title: 'Navegadores' },
+  'web': { file: 'content/web.md', title: 'Web' },
+  'html': { file: 'content/HTML.md', title: 'HTML' },
+  'css': { file: 'content/CSS.md', title: 'CSS' },
+  'javascript': { file: 'content/JavaScript.md', title: 'JavaScript' },
+  'typescript': { file: 'content/TypeScript.md', title: 'TypeScript' },
+  'librerias-frameworks': { file: 'content/librerias-frameworks.md', title: 'Librerías & Frameworks' },
+  'angular': { file: 'content/librerias-frameworks/Angular.md', title: 'Angular' },
+  'react': { file: 'content/librerias-frameworks/React.md', title: 'React' },
+  'vue': { file: 'content/librerias-frameworks/Vue.md', title: 'Vue' },
+  'git': { file: 'content/Git.md', title: 'Git' },
+  'otros': { file: 'content/otros.md', title: 'Otros' },
+  'libros': { file: 'content/Libros.md', title: 'Libros' },
+  'libros-javascript': { file: 'content/Libros-JavaScript.md', title: 'Libros de JavaScript' },
+};
+
+export function getStaticPaths() {
+  const slugs = ['http','browsers','web','html','css','javascript','typescript','librerias-frameworks','angular','react','vue','git','otros','libros','libros-javascript'];
+  return slugs.map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+const mapping = SLUG_MAP[slug!];
+
+if (!mapping) {
+  return Astro.redirect('/');
+}
+
+const filePath = path.join(process.cwd(), mapping.file);
+const content = fs.readFileSync(filePath, 'utf-8');
+const htmlContent = await marked(content);
+---
+
+<MainLayout title={mapping.title} activeSlug={slug}>
+  <div class="prose prose-lg max-w-none">
+    <Fragment set:html={htmlContent} />
+  </div>
+</MainLayout>

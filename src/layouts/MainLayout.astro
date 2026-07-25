@@ -1,0 +1,78 @@
+---
+import Sidebar from '../components/Sidebar.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  activeSlug?: string;
+}
+
+const { title, activeSlug } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title} - Recursos Frontend</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class="min-h-screen bg-background">
+    <div class="h-screen flex">
+      <!-- Desktop Sidebar -->
+      <aside class="hidden lg:flex w-80 border-r border-border flex-col h-screen sticky top-0 bg-card">
+        <Sidebar activeSlug={activeSlug} />
+      </aside>
+
+      <!-- Main content -->
+      <main class="flex-1 flex flex-col min-h-screen">
+        <!-- Mobile header -->
+        <header class="lg:hidden border-b border-border p-4 flex items-center justify-between bg-card sticky top-0 z-10">
+          <div class="flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+            </svg>
+            <h1 class="font-bold text-lg">Recursos Frontend</h1>
+          </div>
+          <button id="mobile-menu-btn" class="p-2 rounded-md border border-border hover:bg-muted">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+        </header>
+
+        <!-- Mobile menu overlay -->
+        <div id="mobile-menu" class="fixed inset-0 z-50 hidden">
+          <div class="absolute inset-0 bg-black/50" id="mobile-menu-backdrop"></div>
+          <div class="absolute left-0 top-0 h-full w-80 bg-card shadow-xl overflow-y-auto">
+            <Sidebar activeSlug={activeSlug} />
+          </div>
+        </div>
+
+        <div class="flex-1 overflow-y-auto">
+          <div class="max-w-4xl mx-auto p-6 lg:p-12">
+            <slot />
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <script>
+      const btn = document.getElementById('mobile-menu-btn');
+      const menu = document.getElementById('mobile-menu');
+      const backdrop = document.getElementById('mobile-menu-backdrop');
+
+      btn?.addEventListener('click', () => {
+        menu?.classList.toggle('hidden');
+      });
+
+      backdrop?.addEventListener('click', () => {
+        menu?.classList.add('hidden');
+      });
+    </script>
+  </body>
+</html>

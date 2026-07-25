@@ -1,0 +1,16 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+import { marked } from 'marked';
+
+const readmePath = path.join(process.cwd(), 'README.md');
+const readmeContent = fs.readFileSync(readmePath, 'utf-8');
+const htmlContent = await marked(readmeContent);
+---
+
+<MainLayout title="Inicio" activeSlug="home">
+  <div class="prose prose-lg max-w-none">
+    <Fragment set:html={htmlContent} />
+  </div>
+</MainLayout>
