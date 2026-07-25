@@ -36,7 +36,8 @@ if (!mapping) {
 
 const filePath = path.join(process.cwd(), mapping.file);
 const content = fs.readFileSync(filePath, 'utf-8');
-const htmlContent = await marked(content);
+const baseUrl = import.meta.env.BASE_URL;
+const htmlContent = (await marked(content)).replace(/(href|src)="\/(?!\/)/g, `$1="${baseUrl}`);
 ---
 
 <MainLayout title={mapping.title} activeSlug={slug}>

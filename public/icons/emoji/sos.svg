@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <rect width="24" height="24" rx="5" fill="#dc2626"/>
+  <rect x="4" y="7" width="16" height="10" rx="2" fill="#fff" opacity="0.16"/>
+  <text x="12" y="14.4" text-anchor="middle" font-size="6.2" font-weight="700" fill="#fff" font-family="Inter, Arial">SOS</text>
+</svg>

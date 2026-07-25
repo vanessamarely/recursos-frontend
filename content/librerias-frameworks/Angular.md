@@ -1,6 +1,6 @@
 # Angular
 
-[🔙 Volver Librerias & Frameworks](../librerias-frameworks)
+[<img src="/icons/emoji/back.svg" alt="volver" width="14" style="vertical-align: text-bottom;" /> Volver Librerias & Frameworks](../librerias-frameworks)
 
 ## Español
 

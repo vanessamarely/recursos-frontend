@@ -1,6 +1,6 @@
 # JavaScript
 
-[🔙 Volver Recursos](https://github.com/vanessamarely/recursos-frontend/)
+[<img src="/icons/emoji/back.svg" alt="volver" width="14" style="vertical-align: text-bottom;" /> Volver Recursos](https://github.com/vanessamarely/recursos-frontend/)
 
 ## Definición de JavaScript
 
@@ -127,7 +127,7 @@ const PI = 3.1416;
 
 - [CURSO DE PROGRAMACION con JAVASCRIPT desde cero](https://youtu.be/-rj-zxmdGHA) por [Carlos Azaustre](https://www.youtube.com/c/CarlosAzaustre)
 - [Experimentos con Javascript](https://www.youtube.com/playlist?list=PLx5xbrpW6nXgaJfiZl5BuF31K3WxaTyFw) por [@Manz](https://twitter.com/Manz)
-- [Retos de JavaScript 🤯](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1QCcTOSq8F_pSQXVcUFmYA) por [Miguel Ángel Durán - midudev](https://www.youtube.com/c/midudev)
+- [Retos de JavaScript <img src="/icons/emoji/dizzy.svg" alt="sorpresa" width="14" style="vertical-align: text-bottom;" />](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1QCcTOSq8F_pSQXVcUFmYA) por [Miguel Ángel Durán - midudev](https://www.youtube.com/c/midudev)
 
 ### Recursos en Inglés
 

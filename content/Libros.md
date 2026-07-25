@@ -1,6 +1,6 @@
 # Libros
 
-[🔙 Volver Recursos](https://github.com/vanessamarely/recursos-frontend/)
+[<img src="/icons/emoji/back.svg" alt="volver" width="14" style="vertical-align: text-bottom;" /> Volver Recursos](https://github.com/vanessamarely/recursos-frontend/)
 
 ## Libros
 

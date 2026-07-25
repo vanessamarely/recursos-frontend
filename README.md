@@ -1,6 +1,6 @@
 # Frontend
 
-## Recursos Frontend 😃📚
+## Recursos Frontend <img src="/icons/emoji/smile.svg" alt="smile" width="16" style="vertical-align: text-bottom;" /> <img src="/icons/emoji/books.svg" alt="books" width="16" style="vertical-align: text-bottom;" />
 
 En la actualidad hay muchas personas con un gran interés por aprender sobre tecnologías Web, y gracias a una gran comunidad que está constantemente generando contenido encontramos a nuestra disposición muchos recursos que permiten que nuestro proceso sea más sencillo.
 
@@ -46,7 +46,7 @@ Existen muchas rutas de aprendizaje en internet, algunas incluso son generadas p
 ### [Libros de JavaScript](Libros-JavaScript.md)
 
 
-# Soporte a los recursos 🆘
+# Soporte a los recursos <img src="/icons/emoji/sos.svg" alt="sos" width="16" style="vertical-align: text-bottom;" />
 
 Existen muchos recursos que tal vez no alcance a recopilar en este repositorio, te agradecería mucho si ayudas a contribuir incluyéndolos, para que podamos construir una guía que sea de ayuda para todos.
 
