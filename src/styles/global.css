@@ -119,4 +119,14 @@ body {
 /* Make tables and images inside content more visible */
 .prose table { border-collapse: collapse; width: 100%; }
 .prose table th, .prose table td { border: 1px solid var(--border); padding: 0.5rem; }
-.prose img { max-width: 100%; border-radius: 0.5rem; box-shadow: 0 6px 18px rgba(17,24,39,0.04); }
+.prose img:not([src*="icons/emoji/"]) { max-width: 100%; border-radius: 0.5rem; box-shadow: 0 6px 18px rgba(17,24,39,0.04); }
+
+.prose img[src*="icons/emoji/"] {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin: 0 0.08em;
+  vertical-align: -0.12em;
+  box-shadow: none;
+  border-radius: 0;
+}

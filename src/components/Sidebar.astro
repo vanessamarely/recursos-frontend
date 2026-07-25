@@ -62,7 +62,9 @@ function hasActiveChild(item: NavItem, currentSlug?: string): boolean {
 }
 
 function withBase(path: string): string {
-  return `${baseUrl}${path}`;
+  const normalizedBase = baseUrl.endsWith('/') ? baseUrl.slice(0, -1) : baseUrl;
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`;
+  return `${normalizedBase}${normalizedPath}`;
 }
 ---
 

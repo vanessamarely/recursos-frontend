@@ -9,6 +9,12 @@ interface Props {
 
 const { title, activeSlug } = Astro.props;
 const baseUrl = import.meta.env.BASE_URL;
+
+function withBase(path: string): string {
+  const normalizedBase = baseUrl.endsWith('/') ? baseUrl.slice(0, -1) : baseUrl;
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`;
+  return `${normalizedBase}${normalizedPath}`;
+}
 ---
 
 <!DOCTYPE html>
@@ -20,7 +26,7 @@ const baseUrl = import.meta.env.BASE_URL;
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-    <link rel="icon" type="image/svg+xml" href={`${baseUrl}favicon.svg`} />
+    <link rel="icon" type="image/svg+xml" href={withBase('favicon.svg')} />
   </head>
   <body class="min-h-screen bg-background">
     <div class="h-screen flex">
@@ -34,7 +40,7 @@ const baseUrl = import.meta.env.BASE_URL;
         <!-- Mobile header -->
         <header class="lg:hidden border-b border-border p-4 flex items-center justify-between bg-card sticky top-0 z-10">
           <div class="flex items-center gap-2">
-            <img src={`${baseUrl}icons/logo.svg`} alt="Recursos logo" class="w-8 h-8" />
+            <img src={withBase('icons/logo.svg')} alt="Recursos logo" class="w-8 h-8" />
             <h1 class="font-bold text-lg">Recursos Frontend</h1>
           </div>
           <button id="mobile-menu-btn" class="p-2 rounded-md border border-border hover:bg-muted">
